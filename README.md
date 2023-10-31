@@ -22,5 +22,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kirtipandey19&show_icons=true&locale=en" alt="kirtipandey19" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kirtipandey19&" alt="kirtipandey19" /></p>
+[![An image of @kirtipandey19's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kirtipandey19)](https://holopin.io/@kirtipandey19)
+
 
 
