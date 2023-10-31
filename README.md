@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kirti Pandey</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A Passionate Frontend Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kirtipandey19&label=Profile%20views&color=0e75b6&style=flat" alt="kirtipandey19" /> </p>
 
@@ -10,7 +9,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kirti-pandey-448332215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kirti-pandey-448332215" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/kirti pandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kirti pandey" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/kirtipandeysrp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kirtipandeysrp" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@kirtipandeysrp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@kirtipandeysrp" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/kirtipandeysrp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kirtipandeysrp" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
