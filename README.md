@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Kirti Pandey</h1>
-<h3 align="center">A Passionate Frontend Developer</h3>
+<h1 align="center">Hey Everyone👋, I'm Kirti Pandey</h1>
+<h3 align="center">Aspiring Software Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kirtipandey19&label=Profile%20views&color=0e75b6&style=flat" alt="kirtipandey19" /> </p>
@@ -24,8 +24,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kirtipandey19&" alt="kirtipandey19" /></p>
 
 [![An image of @kirtipandey19's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kirtipandey19#)](https://holopin.io/@kirtipandey19#)
-[![An image of @kirtipandey19's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kirtipandey19#)](https://holopin.io/@kirtipandey19#)
-
+[![https://www.cloudskillsboost.google/public_profiles/86b9757d-2c3c-4536-af7d-bd8dfb4cc2e7, which is a link of Google Cloud Badge](https://www.cloudskillsboost.google/public_profiles/86b9757d-2c3c-4536-af7d-bd8dfb4cc2e7)](https://www.cloudskillsboost.google/profile/badges)
 
 
 
