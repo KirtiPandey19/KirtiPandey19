@@ -69,9 +69,7 @@ Here are some ideas to get you started:
   </a>
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-  </a>
-  
-   
+  </a>   
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kirtipandey19&show_icons=true&locale=en&layout=compact" alt="kirtipandey19" /></p>
@@ -79,8 +77,6 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kirtipandey19&show_icons=true&locale=en" alt="kirtipandey19" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kirtipandey19&" alt="kirtipandey19" /></p> 
-<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
-<br/>
 
 [![An image of @kirtipandey19's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kirtipandey19#)](https://holopin.io/@kirtipandey19#)
 
