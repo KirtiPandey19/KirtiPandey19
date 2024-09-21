@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kirtipandey19&label=Profile%20views&color=0e75b6&style=flat" alt="kirtipandey19" /> </p>
 
-- ⚡ Fun fact **I am funny**
+- ⚡ Fun fact: **I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
